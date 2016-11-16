@@ -1,0 +1,14 @@
+# Files to be ignored
+.DS_Store
+.idea
+npm-debug.log
+thumb.db
+*_bak.js
+
+# Directories to be ignored
+.tmp
+bower_components
+docs
+node_modules
+report
+build

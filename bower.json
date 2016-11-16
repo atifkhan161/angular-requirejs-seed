@@ -1,0 +1,30 @@
+{
+  "name": "wiz_app",
+  "authors": [
+    "Atif khan"
+  ],
+  "description": "Angular application for WizIq",
+  "main": "app.js",
+  "keywords": [
+    "wiziq"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-bootstrap": "^2.2.0",
+    "angularAMD": "^0.2.1",
+    "jquery": "^3.1.1",
+    "angular-ui-router": "^0.3.2",
+    "angular-sanitize": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "underscore": "^1.8.3"
+  }
+}
